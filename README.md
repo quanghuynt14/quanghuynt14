@@ -1,3 +1,3 @@
 ### Hi, I'm Huy 👋
 
-- 🌱 I’m currently learning React Native, Vue
+- 🌱 I’m currently a software engineer at Indy.
