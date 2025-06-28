@@ -5,3 +5,5 @@
 🤖 Building LeitnerAI - https://leitner-ai.vercel.app/home
 
 ⌨️ Building TrackMe - a 100% local native Swift macOS app. It will track all keystrokes on my mac to fight my procrastination.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=quanghuynt14)](https://git.io/streak-stats)
